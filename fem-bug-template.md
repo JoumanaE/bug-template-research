@@ -1,14 +1,10 @@
-<span> <h1> Frontend Masters Bug Template <h1> </span>
+<span> <h1> 🐞 Frontend Masters Bug Template 🐞 <h1> </span>
 
----
-
-#Describe the bug
+# Describe the bug 🐛:
 
 > A concise description of what the bug is.
 
-…
-
-# Expected Behavior
+# Expected Behavior:
 
 > What did you expect your code would be doing? Short and precise answer.
 
