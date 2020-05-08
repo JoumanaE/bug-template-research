@@ -18,7 +18,7 @@ _This section should contain a list of the steps you take to demonstrate the pro
 ##### Order of importance:
 
 <details>
-<summary>Order of importance</summary>
+<summary>###### Select here</summary>
 <ul><li>[ ] Urgent </li>  </ul>
 <ul><li>[ ] Important</li></ul>
 <ul><li>[ ] Can wait</li></ul>
