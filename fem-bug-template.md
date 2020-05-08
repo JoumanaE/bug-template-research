@@ -1,33 +1,27 @@
-<span style="color:blue"><h1> Frontend Masters Bug Template</h1></span>
+<span> <h1> Frontend Masters Bug Template <h1> </span>
 
-&nbsp;
+# Issue Description
 
-##### Describe the bug:
+# Expected Behavior
 
-&nbsp;
+# Current Behavior
 
-##### Steps to recreate:
-
-_This section should contain a list of the steps you take to demonstrate the problem._
-&nbsp;
-
-##### Possible solution:
-
-&nbsp;
-
-##### Order of importance:
+# Steps to Reproduce
 
 <details>
-<summary > Select here</summary>
-<ul><li>[ ] Urgent </li>  </ul>
-<ul><li>[ ] Important</li></ul>
-<ul><li>[ ] Can wait</li></ul>
-<ul><li>[ ] Quick Fix</li></ul>
+<summary > Steps</summary>
+<ul><li>[ ] 1 </li>  </ul>
+<ul><li>[ ] 2</li></ul>
+<ul><li>[ ] 3</li></ul>
+<ul><li>[ ] 4</li></ul>
 </details>
 
-<span style="color:orange"><h6> Review Checklist:</h6></span>
+# Possible Solution
 
-<ul><li>[ ] </li></ul>
-<ul><li>[ ] </li></ul>
-<ul><li>[ ] </li></ul>
-<ul><li>[ ] </li></ul>
+# Steps to Reproduce
+
+# Screenshot
+
+- ![Screenshot]()
+
+# How it was reviewed
