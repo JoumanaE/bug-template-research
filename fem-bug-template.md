@@ -18,14 +18,14 @@ _This section should contain a list of the steps you take to demonstrate the pro
 ##### Order of importance:
 
 <details>
-<summary>###### Select here</summary>
+<summary > Select here</summary>
 <ul><li>[ ] Urgent </li>  </ul>
 <ul><li>[ ] Important</li></ul>
 <ul><li>[ ] Can wait</li></ul>
 <ul><li>[ ] Quick Fix</li></ul>
 </details>
 
-<span style="color:#dd625e">##### Review Checklist:</span>
+<span style="color:orange">##### Review Checklist:</span>
 
 <ul><li>[ ] </li></ul>
 <ul><li>[ ] </li></ul>
