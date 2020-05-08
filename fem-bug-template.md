@@ -27,6 +27,7 @@ _This section should contain a list of the steps you take to demonstrate the pro
 
 ##### Review Checklist:
 
-<ul> <li>[ ] This is the third checkbox <li></ul> 
-<ul> <li>[ ] This is the third checkbox <li></ul> 
-<ul> <li>[ ] This is the third checkbox <li></ul>
+<ul><li>[ ] </li></ul>
+<ul><li>[ ] </li></ul>
+<ul><li>[ ] </li></ul>
+<ul><li>[ ] </li></ul>
