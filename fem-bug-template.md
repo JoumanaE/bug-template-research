@@ -1,4 +1,4 @@
-<span style="color:blue"># Frontend Masters Bug Template</span>
+<span style="color:blue"><h1> Frontend Masters Bug Template</h1></span>
 
 &nbsp;
 
@@ -25,7 +25,7 @@ _This section should contain a list of the steps you take to demonstrate the pro
 <ul><li>[ ] Quick Fix</li></ul>
 </details>
 
-<span style="color:orange">##### Review Checklist:</span>
+<span style="color:orange"><h6> Review Checklist:</h6></span>
 
 <ul><li>[ ] </li></ul>
 <ul><li>[ ] </li></ul>
