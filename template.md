@@ -8,13 +8,13 @@
 
 ## Steps to Reproduce
 
-<summary>Add the steps here</summary>
-<details open>
-- []
-- []
-- []
-- []
-</details>
+<Steps open>
+- [x] 
+- [x] 
+- [x] 
+- [ ]
+
+</Steps>
 
 ## Possible Solution
 
@@ -22,6 +22,6 @@
 
 ## Screenshot
 
-- ![Screenshot]()
+- ![]()
 
 ## How it was reviewed
