@@ -8,10 +8,13 @@
 
 ## Steps to Reproduce
 
-- [x]
-- [ ]
-- [x]
-- [ ]
+<summary>Add the steps here</summary>
+<details open>
+- []
+- []
+- []
+- []
+</details>
 
 ## Possible Solution
 
