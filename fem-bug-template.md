@@ -19,7 +19,7 @@ _This section should contain a list of the steps you take to demonstrate the pro
 
 <details>
 <summary>Order of importance</summary>
-<ul><li>[ ] Urgent </li>
+<ul><li>[ ] Urgent </li>  </ul>
 <ul><li>[ ] Important</li></ul>
 <ul><li>[ ] Can wait</li></ul>
 <ul><li>[ ] Quick Fix</li></ul>
@@ -27,6 +27,6 @@ _This section should contain a list of the steps you take to demonstrate the pro
 
 ##### Review Checklist:
 
-[ ] This is the first checkbox
-[ ] This is the second checkbox
-[ ] This is the third checkbox
+<ul> <li>[ ] This is the third checkbox <li></ul> 
+<ul> <li>[ ] This is the third checkbox <li></ul> 
+<ul> <li>[ ] This is the third checkbox <li></ul>
