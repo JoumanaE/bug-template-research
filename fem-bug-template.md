@@ -6,7 +6,7 @@
 
 &nbsp;
 
-##### Steps to reproduce:
+##### Steps to recreate:
 
 _This section should contain a list of the steps you take to demonstrate the problem._
 &nbsp;
