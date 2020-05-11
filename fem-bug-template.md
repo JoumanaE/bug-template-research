@@ -8,6 +8,10 @@
 
 > Give a description of what part of the services offered by the Frontend Masters platform the bug is affecting (ex: payments, subscriptions etc.)
 
+#### Package(s) affected:
+
+> Give a list of the different packages the bug is affecting.
+
 #### Expected Behavior:
 
 > What did you expect your code would be doing? Short and precise answer.
